@@ -6,12 +6,12 @@
 html {
 	margin: 0;
 	padding: 0;
+	color: black; 
 	}
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
-	color: #555753; 
-	background: #fff url(blossoms.jpg) no-repeat bottom right; 
+	background: gray no-repeat bottom right; 
 	margin: 0; 
 	padding: 0;
 	}
@@ -25,3 +25,11 @@ h3 {
 	margin-bottom: 0; 
 	color: #7D775C;
 	}
+
+.profile_pic {
+
+	size: width:150px;height:150px;
+	margin: 5; 
+	padding: 2;
+
+}
