@@ -4,25 +4,19 @@
 
 /* basic elements */
 html {
-	margin: 0;
-	padding: 0;
 	color: black; 
 	}
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
-	background: gray no-repeat bottom right; 
-	margin: 0; 
-	padding: 0;
+	background-image: url(../images/husk.png);
 	}
-p { 
-	margin-top: 0; 
+p {  
 	text-align: justify;
 	}
 h3 { 
 	font: italic normal 1.4em georgia, sans-serif;
 	letter-spacing: 1px; 
-	margin-bottom: 0; 
 	color: #7D775C;
 	}
 
@@ -32,4 +26,13 @@ h3 {
 	margin: 5; 
 	padding: 2;
 
+}
+
+.paragraph_1{
+	float: left;
+}
+
+.footer{
+	background: black;
+	color: white;
 }
