@@ -1,1 +1,1 @@
-<?php include_once("https://github.com/jahdasha/portfolio/index.html"); ?>
+<?php include_once("github.com/jahdasha/portfolio/index.html"); ?>
